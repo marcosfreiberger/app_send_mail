@@ -1,3 +1,3 @@
 # app_send_mail
 
-Para testar o app, não esquecer de  substituir no arquivo processa_envio.php  o "username" e "senha" por um email válido.
+Para testar o aplicativo, não esqueça de substituir no arquivo processa_envio.php o "nome de usuário" e "senha" por um e-mail válido.
